@@ -1,0 +1,33 @@
+[04-Jan-2011 07:44:03] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 221
+[04-Jan-2011 07:53:48] PHP Parse error:  syntax error, unexpected '=' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 221
+[18-Feb-2011 17:57:05] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 17:58:06] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 17:59:06] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:00:07] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:01:07] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:02:08] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:08] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:08] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:08] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:08] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:08] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:09] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:09] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:09] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:09] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:09] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:09] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:09] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:09] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[18-Feb-2011 18:03:09] PHP Warning:  Invalid argument supplied for foreach() in /home/paperfli/public_html/jrmolina.com/idx/Search_Results.php on line 841
+[20-Feb-2011 22:57:10] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 588
+[20-Feb-2011 22:57:10] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 588
+[20-Feb-2011 22:58:59] PHP Parse error:  syntax error, unexpected ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 332
+[20-Feb-2011 22:59:00] PHP Parse error:  syntax error, unexpected ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 332
+[20-Feb-2011 22:59:02] PHP Parse error:  syntax error, unexpected ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 332
+[20-Feb-2011 22:59:04] PHP Parse error:  syntax error, unexpected ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 332
+[20-Feb-2011 22:59:12] PHP Parse error:  syntax error, unexpected ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 332
+[20-Feb-2011 22:59:15] PHP Parse error:  syntax error, unexpected ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 332
+[20-Feb-2011 22:59:15] PHP Parse error:  syntax error, unexpected ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 332
+[20-Feb-2011 22:59:15] PHP Parse error:  syntax error, unexpected ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 332
+[20-Feb-2011 22:59:15] PHP Parse error:  syntax error, unexpected ';' in /home/paperfli/public_html/jrmolina.com/idx/PropDetails.php on line 332

@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+	body {
+	FONT-SIZE: 9pt;
+	COLOR: #999999;
+	FONT-FAMILY: arial;
+}
+a:link {
+	color: #ffffff;
+	text-decoration: none;
+	FONT-FAMILY: arial;
+}
+a:visited {
+	text-decoration: none;
+	color: #ffffff;
+	FONT-FAMILY: arial;
+}
+a:hover {
+	text-decoration: bold;
+	color: #FFFFFF;
+	FONT-FAMILY: arial;
+}
+a:active {
+	text-decoration: none;
+	FONT-FAMILY: arial;
+}

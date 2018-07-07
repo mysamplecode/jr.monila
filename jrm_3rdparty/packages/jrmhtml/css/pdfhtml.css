@@ -1,0 +1,39 @@
+@font-face { font-family: 'nexa_light'; src: url('../font/nexa_light-webfont.eot'); src: url('../font/nexa_light-webfont.eot?#iefix') format('embedded-opentype'),  url('../font/nexa_light-webfont.woff') format('woff'),  url('../font/nexa_light-webfont.ttf') format('truetype'),  url('../font/nexa_light-webfont.svg#nexa_light') format('svg'); font-weight: normal; font-style: normal; }
+body{
+    font-family: 'nexa_light';
+}
+.changecolorblue{
+    color: #3366CC;
+    font-size: 8px;
+    font-weight: bolder;
+}
+.colored{
+    background-color: #CCC;
+    line-height: .5px;
+}
+.lineheight{
+    line-height: .5px;
+}
+.changecolorblack{
+    color: black;
+    font-size: 8px;
+}
+span{
+    font-size: 8px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+strong{
+    color: #3366CC;
+    font-size: 7px;
+    font-weight: bold;
+
+}
+p{
+    font-size: 7px;
+    font-family: 'nexa_light';
+    text-align: left;
+    color: #CCC;
+
+}

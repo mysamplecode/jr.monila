@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+.ui-widget-content {
+	border-width: 2px;
+	background-image: none;
+	background-color: #0088cc;
+	height:2px; 
+	margin-top:5px;
+	max-width:210px;
+	margin-left:2px;
+}	
+
+.ui-widget-header {
+	background-color: #0088cc;
+	background-image: none;
+	border-radius:none;
+	!important;
+}
+		
+.ui-slider-handle {
+	border-width: 2px;
+}
+		
+/* Default State */		
+ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+	background:url(../images/bar_cr.png) no-repeat left top;
+	width:20px;
+	height:20px;
+	!important;
+}
+		
+/* Hover over the button state */
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus 		{
+	/*background-color: #666666;
+	background-image: none;
+	border-color: #59b4d4;
+	border-width: 2px;*/
+	!important;
+}	
+
+/* Active or Selected State */
+	.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+		background-color: #ef8a15;
+		background-image: none;
+		border-color: #ffaf0f;
+		border-width: 2px;
+		!important;
+		outline: none;
+}
+		
+:focus {
+    outline: none;
+}	
+
+:focus {
+    outline-style: none;
+}	
+		
+/* Corner radius */	
+.ui-corner-all { 
+	/*-moz-border-radius: 12px; 
+	-webkit-border-radius: 12px; */
+}
+
+.range_ammount {border:0; color:#f6931f; font-weight:bold;}

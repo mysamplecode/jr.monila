@@ -1,0 +1,18 @@
+#slideshow {
+    margin:0 auto;
+    width:475px;
+    height:494px;
+    position:relative;
+}
+#slideshow #slidesContainer {
+    margin:0 auto;
+    width:475px;
+    height:494px;
+    overflow:auto;
+    position:relative;
+}
+#slideshow #slidesContainer .slide {
+    margin:0 auto;
+    width:475px; 
+    height:494px;
+}

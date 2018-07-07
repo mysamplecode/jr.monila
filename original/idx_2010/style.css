@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+.style {
+	float:left;
+	width:500px;
+	height:80px;
+	color: #D6D6D6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-image: url(images/jrmolina_title.jpg);
+}
+
+
+
+.submit {
+	color: #000000;
+	font-size: 0;
+	width: 70px;
+	height: 30px;
+	border: none;
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+	background-image: url(images/button_0.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	cursor: default;
+}
+
+.hover{
+	color: #000000;
+	font-size: 0;
+	width: 70px;
+	height: 30px;
+	border: none;
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+	background-image: url(images/button_1.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	cursor: pointer;
+}

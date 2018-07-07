@@ -1,0 +1,156 @@
+Detailed Job Description
+
+1
+-Migrate PHP (search results, property details) into html
+friscorealestatesearchtx.com
+
+clean up pages to include search bar throughout both pages and use below pages as a reference to spacing and distribution
+http://rogershealy.com/our-listings?quick_search=1&property_type=R&lowest_price=275000&highest_price=325000&area=123
+http://rogershealy.com/our-listings/11978848
+
+1.1
+Search Form Edits - Please edit the Price and Beds 
+PRICE MIN 
+under 100,000 
+100,000
+150,000
+200,000
+250,000
+350,000
+450,000
+500+
+
+PRICE MAX
+150,000
+200,000
+250,000
+300,000
+350,000
+450,000
+500,000
+(>=10million)
+
+BEDS MIN 
+1
+2
+3
+4
+5
+
+MAX
+1
+2
+3
+4
+5+(>5) 
+ 
+
+2
+Create a front end & back end lead capture form and table/database
+
+Front End: capture form to include the following
+
+2.1
+Required Form Items*
+*Name of Client:
+(Please include all co-borrowers if necessary in the comments section) 
+___________________________
+
+*Buyer | Seller | Both (radial button)
+(Are you looking to Buy, Sell or Both?
+___________________________
+
+*Property Type: Dropdown (Lease Home, Lease Condo, Purchase Home, Owner Finance Home)
+___________________________
+
+
+*Have you been Pre-Approved for a Mortgage: Dropdown (Yes, No, Cash, Owner Finance)
+___________________________
+
+*Area: 
+Drop Down including following Dallas suburbs-please also place this on homepage somewhere
+___________________________
+North Texas West
+Celina-
+Prosper-
+Frisco-
+The Colony-
+
+North Texas East
+Allen-
+Fairview-
+Mckinney-
+Anna-
+
+North Dallas
+Plano-
+Far North Dallas-
+Carrollton-
+Richardson-
+Addison-
+
+Dallas
+Northpark-
+SMU-
+University Park-
+M Streets-
+Highland Park-
+Lakewood-
+White Rock Lake-
+Greenville-
+Uptown-
+Dalals Medical District-
+Dallas Arts District-
+Downtown Dallas-
+Deep Ellum-
+
+South Dallas
+Bishop Arts District-
+Oak Cliff-
+Kessler Park-
+
+DFW Airport Cities
+Lewisville -
+Flower Mound-
+Grapevine-
+Southlake -
+Hurst-
+Euless-
+Bedford-
+Colleyville-
+Keller-
+North Richland Hills-
+Arlington-
+Grand Prairie-
+Irving-
+Las COlinas-
+
+East
+Garland-
+Mesquite-
+Sunnyvale-
+Rowlett-
+ROckwall-
+Sachse-
+Wylie-
+___________________________
+
+Move Timeframe:
+1-3 months-
+3-6 months-
+6-12 months-
+12-24 months-
+___________________________
+
+Do you want emails of newly listed properties?
+Yes, No
+___________________________
+
+2.2
+Tracking
+
+Be able to Save Properties as Favorites with a Star?is this possible?- record MLS in export XLS report
+Date Account Created 
+Last Login Date
+What MLS# of homes viewed - 
+

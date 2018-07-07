@@ -1,0 +1,285 @@
+@media screen,projection,print{#page{
+	position:relative;
+	margin-top: 63px;
+}
+.search{
+	padding-left:200px;
+}
+.style {
+	float:left;
+	width:500px;
+	height:90px;
+	color: #D6D6D6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-image: url(images/jrmolina_title.jpg);
+}
+
+.submit {
+	color: #000000;
+	font-size: 0;
+	width: 70px;
+	height: 30px;
+	border: none;
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+	background-image: url(images/button_0.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	cursor: default;
+}
+#nav{
+	position:absolute;
+	width:929px;
+	top:0;
+	background:url(/images//navigation-sprite.png) 0 0 repeat-x;
+	margin-left: 205px;
+	
+	height: 63px;
+	left: 4px;
+}#nav ul{width:980px;margin:0 auto;}#nav li:first-child{margin-left:10px;}#nav li{float:left;margin-left:1px;}#nav a{padding:20px;display:block;z-index:1000000;}#nav .currently-selected-item,#nav a:hover{border:0 none;background:url(/images//navigation-sprite.png) 0 -66px repeat-x;}		#accessibility{position:absolute;left:-1000em;}#user-profile-form,#user-pass,#page-title{width:715px;margin-top:10px;margin-bottom:27px;}#page-title a:hover{border-bottom:0 none;}#news-item-date{width:715px;margin-top:13px;margin-bottom:5px;}.vcard #page-title{margin-bottom:5px;}input[type="submit"]:hover{cursor:pointer;}a:hover{border-bottom-width:1px;border-bottom-style:dotted;margin-bottom:-1px;}.logo{display:block;width:219px;height:112px;}.logo:hover{border-bottom:none;margin-bottom:0px;}.optional-link{float:left;clear:left;padding-bottom:1px;}.optional-link:after{content:" »";}.optional-link:hover{margin-bottom:-1px;}#looking-to-rent{background:url() 0 0 no-repeat;width:97px;height:68px;position:absolute;top:-50px;right:30px;z-index:1;text-indent:-9000em;}#looking-to-rent:hover{borde-to-rent.pr-bottom:none;}#content-container{width:100%;border-top-style:solid;border-top-width:1px;border-bottom-style:solid;border-bottom-width:1px;}#content{
+	width:auto;
+	padding-bottom:21px;
+	position:relative;
+}.tabs.secondary,#admin-features{width:199px;float:left;margin:0px;border-style:solid;border-width:1px;padding:10px;margin-top:10px;}.section{width:219px;float:left;margin:40px 0 0 10px;border-style:solid;border-width:1px;}.section p{padding:0px 15px;margin-top:10px;}.section h1{text-indent:-9999px;background:url() 0 0 no-repeat;width:212px;height:119px;}.section h2{border-top-style:solid;border-top-width:1px;padding-top:16px;padding-left:15px;}.section form{padding-left:15px;padding-bottom:5px;padding-top:5px;}#mls-quick-search-form label{margin-bottom:3px;}#mls-quick-search-form span{margin-top:5px;margin-bottom:3px;}#mls-quick-search-form .form-submit{margin-top:5px;}.section .form-submit,.section .button{width:90px;}form label,form input,form select{clear:left;float:left;}form label{margin-bottom:7px;}form span{display:block;margin-bottom:5px;margin-top:3px;}#for-beds{width:65px;}#for-lowest-price,#for-highest-price{width:75px;}#for-baths,#for-highest-price{clear:none;}#for-baths{margin-left:30px;}#for-highest-price{margin-left:20px;}.form-submit,.button{
+	display:block;
+	border:0;
+	padding:5px;
+	margin-top:15px;
+	margin-bottom:7px;
+	text-align:center;
+}.form-submit{background:url(/images/button-sprite.png) 0 0 repeat-x;margin-left:0px;}.form-submit:hover{
+	border-bottom:none;
+	margin-bottom:7px;
+	background-image: url(images/button-sprite.png);
+	background-repeat: repeat-x;
+	background-position: 0 -29px;
+	margin-top: 15px;
+}#edit-profile-bio___Frame{width:423px !important;}#secondary-content{width:948px;margin:0 auto;border-style:solid;border-width:1px;}cite{margin-left:50px;float:left;clear:left;}#footer{
+	width:auto;
+	padding-top:38px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}#footer a:hover{border-bottom:0;}#utility-navigation{float:left;margin-left:32px;}#utility-navigation li{float:left;padding-right:16px;}#informational{
+	float:right;
+	margin-right:20px;
+	margin-top:3px;
+	width: 150px;
+	list-style-type: none;
+}#informational li{float:left;margin-left:3px;padding-left:3px;border-left-style:solid;border-left-width:1px;}#informational li:first-child{margin-left:0px;border-left:none;}#informational .hat-tip{border-left:none;}.hat-tip a{display:block;width:61px;height:40px;text-indent:-9999px;background:url() 0 0 no-repeat;margin-top:-13px;margin-left:12px;}.hat-tip a:hover{border-bottom:none;margin-bottom:0px;}	#sidebar{float:left;width:219px;margin:41px 0 0 10px;}#sidebar .section{float:none;margin:0;padding-bottom:14px;}#listings-container{
+	float:left;
+	width:960px;
+	position:relative;
+	margin-top:2px;
+}#rha-showcase{width:219px;margin:30px 0px 0px 15px;position:relative;background:url() 0 30% no-repeat;clear:left;}#rha-showcase img{margin-top:15px;margin-left:15px;position:static;}#rha-showcase .property-name{margin-top:20px;margin-bottom:3px;}#rha-showcase .button{background:url(/images/button-sprite.png) 0 0 repeat-x;margin-left:0px;width:125px;}#rha-showcase .button:hover{background:url(/images/button-sprite.png) 0 -29px repeat-x;border-bottom:none;margin-bottom:7px;}#listings{
+	float:left;
+	clear:left;
+	margin-top: 9px;
+	margin-left: 85px;
+}#rha-mls-our-listings-sort{width:490px;float:left;}#rha-mls-our-listings-sort label{float:left;clear:none;width:190px;}#rha-mls-our-listings-sort span{margin-top:2px;margin-bottom:2px;}#for-edit-show-listings-from{margin-left:30px;width:135px!important;}#rha-mls-our-listings-sort #edit-submit{
+	float:left;
+	clear:none;
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+}#rha-mls-our-listings-sort #edit-reset{float:left;clear:none;}#rha-mls-pager{float:right;clear:none;width:172px;margin-top:20px;margin-right:14px;}#rha-mls-pager-1{float:right;clear:none;width:172px;margin-top:20px;margin-right:14px;}#rha-mls-pager-1 a,#rha-mls-pager a{float:left;font-size:17px;padding:0px 5px 2px 5px;border-width:1px;border-style:solid;}#rha-mls-pager-1 input,#rha-mls-pager input{float:left;clear:none;margin-right:0px;text-align:center;}#rha-mls-pager-1 #for-edit-page-1,#rha-mls-pager #for-edit-page{width:77px;clear:none;margin-left:6px;font-size:14px;}#rha-mls-pager-1 #for-edit-page-1 span,#rha-mls-pager #for-edit-page span{float:left;margin-right:5px;}#rha-mls-pager-1 span,#rha-mls-pager span{display:inline;float:left;margin-right:5px;}#edit-submit-1,#edit-submit-2{display:none;}.
+.pager{margin-top:18px;}.no-results{clear:both;}#listings-container .listing{float:left;width:310px;border-style:solid;border-width:1px;padding:15px 15px 10px;margin-right:15px;margin-bottom:15px;position:relative;height:160px;}#listings-container .pager{float:right;margin-right:16px;}#listings-container .bottom{margin-top:10px!important;}.listing .reduced,.listing .lease,.listing .new-listing,.listing .open-house{position:absolute;left:28px;top:7px;padding:0px!important;text-align:center!important;z-index:1;}.listing .open-house h5{padding:0px!important;}.listing .lease{padding:0px;text-align:center;}.listing img{float:left;margin-bottom:10px;position:static;}.information{
+	width:140px;
+	float:right;
+	margin-right:3px;
+	text-align: left;
+}
+#rha-mls-our-listings-sort-container{
+	margin-left:85px;
+	font-size:20px;
+}
+#pagination{
+	font-size:16px;
+}
+#Copywright{
+	text-align: center;
+	margin-top: 10px;
+}
+.information .adr{margin-top:15px;margin-bottom:31px;}.information .locality{display:block;}.listing .button{clear:left;background:url() 0 0 no-repeat;width:135px;margin-bottom:0px;}.galleria_container img,.listing-photo{border-style:solid;border-width:4px;position:absolute;top:0px;left:0px;}.bed-bath-description{position:absolute;top:140px;margin-bottom:0 !important;}		.rha-showcase-item.first-child{margin-top:0px;padding-top:0px;border-top:0 none;}.rha-showcase-item{width:710px;float:left;clear:left;padding-top:20px;margin-top:20px;border-top-width:1px;border-top-style:solid;border-top-color:rgb(123,141,158);background:url() 0 100% no-repeat;}.rha-showcase-item .photo{position:relative;float:left;margin-left:15px;}.rha-showcase-item .property-name{float:left;width:510px;margin-top:55px;}.rha-showcase-item p{width:220px;margin-bottom:0px!important;float:left;margin-left:25px!important;margin-top:10px}.rha-showcase-item .button{margin-top:0px;}.information p span{display:block;}		#listing-detail{
+	width:auto;
+	position:relative;
+}#listing-detail .print{position:absolute;right:0px;top:10px;}#listing-agent{clear:both;margin-top:20px;margin-bottom:20px;}#general-information{position:relative;margin-bottom:20px;clear:left;}#general-information .listing-photo{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width: 366px;
+	height: 280px;
+}#general-information img{border-style:solid;border-width:6px;float:left;margin-right:15px;}#general-description{
+	width:220px;
+	float:right;
+	margin-right:80px;
+	list-style-type: none;
+}#general-description p{margin-top:24px;margin-bottom:20px;}#general-description span{display:block;}#general-description .adr span{
+	display:inline;
+	list-style-type: none;
+}#general-description .button{width:103px;}#listing-photos{
+	border-top-width:1px;
+	border-top-style:solid;
+	;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	float:left;
+	margin-top:20px;
+	padding-top:10px;
+	margin-bottom:20px;
+	padding-bottom:4px;
+	width:800px;
+	margin-right: 30px;
+}#listing-photos li{float:left;margin-right:5px;margin-bottom:3px;}#listing-photos img{border-style:solid;border-width:2px!important;position:static;}#listing-description{
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	padding-bottom:20px;
+	margin: 0px;
+}#listing-description h3{float:left;margin-left:7px;}#listing-description p{float:left;margin-top:20px;clear:left;}#listing-description .lease{}#property-detail{
+	float:left;
+	clear:left
+}#agent-details{margin-top:20px;width:500px;float:left;margin-left:15px;}#agent-details h3{margin-left:0px;}#agent-details .fn{clear:left;margin-top:20px;}#agent-details .tel{clear:left;margin-top:5px;}#agent-details .role{margin:0!important;}#agent-details .button{width:115px;}
+table{}
+thead th{
+	padding-bottom:26px;	
+}table td{width:200px;}td.title{width:165px;}tbody th{margin-top:41px;}#listing-nav{
+	margin-top:35px;
+	margin-bottom:7px;
+	list-style-type: none;
+}#listing-nav li{
+	float:left;
+	margin-bottom: 0px;
+}#listing-nav li.first-child{
+	float:left;
+	list-style-type: none;
+	width: 140px;
+	margin-bottom: 0px;
+	padding-top: 3px;
+	padding-right: 8.5px;
+	padding-bottom: 3px;
+	padding-left: 8.5px;
+}#listing-nav li.first-child a:before{content:"« ";}#listing-nav li.last-child{float:right;}#listing-nav li.last-child a:after{content:" »";}
+#listing-nav a{
+	border-style:solid;
+	border-width:1px;
+	display:block;
+	padding-top: 3px;
+	padding-right: 8.5px;
+	padding-bottom: 3px;
+	padding-left: 8.5px;
+	margin-right:0px!important;
+	}
+#listing-nav a:hover{
+	width: 120px;
+	padding-top: 3px;
+	padding-right: 8.5px;
+	padding-bottom: 3px;
+	padding-left: 8.5px;
+}.agent-photo{float:left;margin-top:20px;border-style:solid;border-width:4px;}.virtual-tour{padding:0px 0px 15px;margin-bottom:0px!important;margin-top:0px!important;}.virtual-tour span{background:url() -128px -28px no-repeat;width:45px;height:25px;float:left;margin-right:5px;margin-top:-3px;}.map-and-directions{display:block;padding:5px 0px 10px 0px;margin-top:18px!important;margin-bottom:0px!important;}.map-and-directions span{background:url() -128px 0 no-repeat;width:44px;height:28px;display:block;float:left;margin-right:5px;margin-top:-3px;}.button{background:url() 0 0 repeat-x;margin-left:0px;padding:5px 10px 6px 10px;}.button:hover{background:url(http://assets3.rogershealy.com/sites/all/themes/rogers-healy/_media/button-sprite.png) 0 -29px repeat-x;border-bottom:none;margin-bottom:7px;}.galleria{list-style:none;width:200px;}.galleria li{display:block;width:63px!important;height:47px;margin-right:11px!important;margin-bottom:10px!important;}.galleria li a{display:none;}.galleria li div{position:absolute;display:none;top:0;left:180px;}.galleria li div img{cursor:pointer;}.galleria li.active div img,.galleria li.active div{display:block;}.galleria li img.thumb{cursor:pointer;top:auto;left:auto;display:block;width:63px;height:47px;margin-right:5px!important;margin-bottom:3px!important;}.galleria li .caption{display:block;padding-top:.5em}* html .galleria li div span{width:400px}		.galleria_wrapper{display:block;}	#user-login-container,#container{
+	width:810px;
+	position:relative;
+	margin: 15px;
+}#container p{margin-bottom:20px;}#container .description{width:699px;margin-top:0px;clear:left;}#container #primary-associate{border-width:1px;border-style:solid;padding:14px 20px 20px;width:657px;margin-bottom:20px;margin-top:29px;}#primary-associate p{margin-top:9px;width:430px;}#primary-associate img{float:left;border-width:5px;border-style:solid;margin-top:4px;}#primary-associate #info{margin-left:20px;width:440px;float:left;}#primary-associate .button{width:170px;margin-top:38px;}#primary-associate .button:hover{margin-bottom:7px;border-bottom:none;}.vcard .button:hover{margin-bottom:7px;}#associates-listing{clear:left;}#associates-listing .associate{min-height:155px;display:-moz-inline-stack;display:inline-block;vertical-align:top;margin-right:13px;margin-bottom:18px;zoom:1;*display:inline;_height:155px;width:150px;width:162px;}.associate a:hover{text-decoration:none;border-bottom:0 none;}#container .role{width:150px;margin:0 auto;}#container .button,#container .role{text-align:center;}#container .photo{border-width:5px;border-style:solid;}		.associates .vcard h3{width:715px;margin-bottom:14px;margin-top:5px;}#bio-info{float:left;width:490px;clear:left;}#secondary-info{float:right;}#secondary-info .button{width:auto;}#secondary-info .button:hover{margin-bottom:7px;border-bottom:none;}#associates-nav{margin-bottom:20px;margin-top:40px;}#associates-nav li{float:right;}#associates-nav a{padding:5px;border-width:1px;border-style:solid;display:block;}#associates-nav a:hover{margin-bottom:0px;}#associates-nav a:after{content:" »";}#associates-nav .first-child{float:left;}#associates-nav .last-child{margin-right:8px;}#associates-nav .first-child a:after{content:"";}#associates-nav .first-child a:before{content:"« ";}#associates-nav .last-child a:after{content:"";}#associates-nav .last-child a:before{content:"« ";}#associates-listing .button{padding:5px 8px;}#blog-info{margin-top:33px;float:left;width:490px;}#blog-info h2{margin-bottom:21px;}#blog-info li{margin-bottom:14px;}#blog-info a:after{content:" »"}	.news-item{margin-bottom:30px;clear:both;}.news-item div{width:635px;float:left;}.news-item p{margin-bottom:0px!important;}.news-item h4{font-size:17px;margin-bottom:7px;}.news-item .button{width:140px;}.news-item .button:hover{border-bottom:none;margin-bottom:7px;}#news-article{float:left;width:auto;clear:both;}#secondary-info img{border-style:solid;border-width:7px;}.news.button{width:200px;}.news-item .tv,.news-item .magazine,.news-item .radio,.news-item .website,.news-item .newspaper{float:left;margin-right:10px;}.tv{background:url(http://assets1.rogershealy.com/sites/all/themes/rogers-healy/_media/news-item-sprite.png) -249px 0 no-repeat;width:58px;height:56px;display:block;}.magazine{background:url(http://assets1.rogershealy.com/sites/all/themes/rogers-healy/_media/news-item-sprite.png) -126px 0 no-repeat;width:58px;height:56px;display:block;}.radio{background:url(http://assets1.rogershealy.com/sites/all/themes/rogers-healy/_media/news-item-sprite.png) 0 0 no-repeat;width:58px;height:56px;display:block;}.website{background:url(http://assets1.rogershealy.com/sites/all/themes/rogers-healy/_media/news-item-sprite.png) -65px 0 no-repeat;width:58px;height:56px;display:block;}.newspaper{background:url(http://assets1.rogershealy.com/sites/all/themes/rogers-healy/_media/news-item-sprite.png) -185px 0 no-repeat;width:58px;height:56px;display:block;}	.testimonial{width:657px;border-width:1px;border-style:solid;padding:20px;margin-bottom:20px;}.testimonial img{float:left;margin-right:20px;border-width:9px;border-style:solid;}.testimonial h2{float:left;margin-bottom:20px;}.testimonial blockquote{background:none;padding-left:0px;float:left;width:455px;clear:none;}	#contact-us-form{width:410px;float:left;}#contact-us-form input:focus{border-style:solid;border-width:1px;}#contact-us-form span{display:inline;}#for-city,#for-address-2,#for-address,#for-first-name,#for-last-name,#for-email,#for-phone,.for-textfield{width:188px;float:left;margin-top:8px;}#for-state,#for-address-2,#for-specific-zip,#for-last-name,#for-phone{clear:none;margin-left:22px;}#for-zip-code input,#for-city input,#for-address input,#for-address-2 input,#for-first-name input,#for-last-name input,#for-email input,#for-phone input,.for-textfield input{width:180px;margin-top:7px;padding:4px;border-style:solid;border-width:1px;}#for-city input{border-style:solid;border-width:1px;}#for-state{margin-top:11px;margin-left:25px;}#for-state,#for-state select{width:54px;}#for-zip-code{margin-left:22px;margin-top:8px;width:101px;}#for-zip-code,#for-zip-code input{clear:none;width:101px;}#for-address-2,#for-address,#for-address input,#for-address-2 input{width:390px;}#for-address-2{margin-left:0px;}#for-specific-mls{margin-left:31px;width:188px;}#for-specific-mls input{width:237px;border-style:solid;border-width:1px;padding:4px;}#for-specific-zip{width:101px;margin-left:70px;clear:none;}#for-specific-zip input{width:101px;border-style:solid;border-width:1px;padding:4px;}#for-more-information,#for-specific-property,.option{margin-top:15px;}.option{width:300px;}#for-more-information,#for-contact-me,#more-information,#contact-me{margin-left:28px;}.option input,#for-more-information input,#for-specific-property input,#for-contact-me input{margin:0px;margin-right:5px;}#for-message{margin-top:20px;}#for-message span{width:300px;display:block;}#for-message #message{margin-top:8px;border-style:solid;border-width:1px;padding:4px;}#container .contact{width:220px;float:left;border-top-width:1px;border-top-style:dotted;border-bottom-width:1px;border-bottom-style:dotted;margin-left:75px;padding:20px 0px;margin-top:29px;}.contact li{margin-left:20px;}.contact h2{margin-bottom:27px;}.contact .email{margin-top:14px;}.contact .adr{margin:20px 0px 0px -20px;}input.error{border-style:solid;border-width:1px;}ul.success li,ul.error li{border-style:solid;border-width:1px;clear:none;width:270px;padding:5px;float:left;margin-top:15px;margin-left:15px;}div.error{border-style:solid;border-width:1px;width:270px;padding:5px;margin-bottom:20px;}.contact-us .facebook{float:right;clear:right;margin-right:10px;}	#description{width:920px;margin:0 auto;padding:30px 0 30px 28px;}#description a:after{content:" »";}#featured-listing{position:relative;width:740px;float:left;min-height:450px;z-index:5;opacity:1;}.home .pager{position:absolute;width:120px;right:85px;top:40px;z-index:100;}.home .pager a{float:left;margin-right:10px!important;margin-bottom:10px;}p + .testimonial{margin-top:29px;}.bottom{bottom:15px;position:relative;right:0px;top:20px;}.pager .pager-current,.pager .activeSlide{border-style:solid;border-width:1px;display:block;padding:3px 8.5px;}.pager li{float:left;margin-right:10px;margin-bottom:10px;}.pager li:first-child{margin-left:0px;}.pager a{border-style:solid;border-width:1px;display:block;padding:3px 8.5px;margin-right:0px!important;}#featured-listing #listing{top:40px!important;position:absolute;padding-bottom:35px;background:url(http://assets3.rogershealy.com/sites/all/themes/rogers-healy/_media/photo-background.jpg) 8px -40px no-repeat!important;}#featured-listing img{float:left;border-style:solid;border-width:10px;margin:26px 0px 0px 59px;position:static;}#featured-listing h3{width:200px;float:left;margin-left:53px;margin-top:57px;}#featured-listing h4{width:170px;float:left;margin-left:53px;margin-top:24px;}#featured-listing .street-address{display:block;}#featured-listing p{width:200px;float:left;margin-left:53px;margin-top:24px;}#featured-listing a{float:right;margin-right:31px;}#featured-listing .button{margin-left:53px;float:left;}#listing .optional-link{margin-right:78px;}#from-the-blog{width:220px;float:left;padding:17px 0px 15px 15px;border-right-style:solid;border-right-width:1px;}#from-the-blog h4{margin-top:14px;width:175px;}#from-the-blog cite{margin:12px 0 0 0;display:block;float:none;clear:none;}#from-the-blog .button{margin-top:18px;width:130px;}#passion-is-people{width:680px;float:left;padding:17px 15px 5px 15px;position:relative;}#passion-is-people h2{margin-left:50px;width:400px;float:left;clear:left;margin-bottom:16px;}#passion-is-people .button{margin-left:50px;float:left;clear:left;margin-top:17px;}#passion-is-people .optional-link{margin-left:50px;float:left;clear:left;}#passion-is-people blockquote{margin-bottom:12px;}#passion-is-people 
+ote p{margin-left:50px;}blockquote{width:310px;float:left;clear:left;}blockquote span{background:url(http://assets3.rogershealy.com/sites/all/themes/rogers-healy/_media/rogers-healy-sprite.png) -172px 0 no-repeat;display:block;width:35px;height:28px;float:left;}#passion-is-people img{border-style:solid;border-width:9px;display:block;top:15px;right:13px;position:absolute;}	.blog .section{background-image:url(http://assets3.rogershealy.com/sites/all/themes/rogers-healy/_media/rogers-signature.png);background-position:65% 92%;background-repeat:no-repeat;padding-bottom:115px!important;}.blog .section p{width:175px;margin-top:15px;}#recent-posts{margin-top:33px;}#recent-posts h4,#blog-categories h4{margin-bottom:12px;}#recent-posts li{margin-bottom:14px;width:185px;}#blog-categories{margin-top:30px;}#blog-categories li{margin-bottom:2px;}#blog-categories a:after,#recent-posts a:after{content:" »";}.subscribe{padding:5px 5px 5px 30px;border-width:1px;border-style:solid;background-image:url(http://assets3.rogershealy.com/sites/all/themes/rogers-healy/_media/subscribe.png);background-position:10% 50%;background-repeat:no-repeat;width:77px;display:block;margin-top:64px;}.subscribe:after{content:" »";}.subscribe:hover{border-bottom-width:1px;border-bottom-style:solid;margin-bottom:0px;}.pager{float:right;margin-right:16px;}.blog .pager{position:static;}.blog .bottom{margin-top:20px;padding-bottom:60px;}.blog-landing a + div.blog-post,.blog-landing #container > div:first-child{margin-top:14px!important;border-top:none!important;}.blog-landing .blog-post{clear:both!important;width:699px!important;margin-top:15px!important;border-top-style:solid!important;border-top-width:1px!important;padding-top:22px!important;border-bottom:none!important;padding-bottom:0px!important;}.make-comment{width:195px;float:left;}.comment-subscribe{padding:4px 4px 5px 4px;border-width:1px;border-style:solid;margin-top:15px;float:left;margin-left:15px;}.comment-subscribe span{background-image:url(http://assets3.rogershealy.com/sites/all/themes/rogers-healy/_media/rogers-healy-sprite.png);background-position:-140px -53px;background-repeat:no-repeat;display:block;width:16px;height:16px;float:left;margin-right:5px;margin-top:2px;}.comment-subscribe:hover{border-bottom-style:solid!important;margin-bottom:0px;}.comment-subscribe:after{content:" »";}.blog-landing .blog-post,.reply .blog-post{border-bottom-style:solid;border-bottom-width:1px;padding-bottom:40px;}.blog .blog-post{margin-top:68px;}.blog-post .post-data{width:580px;float:left;margin-top:-3px;}.blog-post .photo{float:left;margin-right:15px;border-style:solid;border-width:3px;}.blog-post h3{margin-bottom:13px;margin-top:4px;}.blog-post p{width:585px;float:left;}.blog-post .categories{clear:left;}.categories li{float:left;margin-right:4px;}.blog-post .button{width:143px;float:left;margin-top:28px;}.blog-landing .service-links{margin-left:0px;float:right;margin-top:15px;width:140px;}.service-links{margin-left:0px;float:left;margin-top:15px;width:185px;}.service-label{font-size:12px;}.service-links .links{margin-top:10px;}.blog-landing .service-links{float:left;margin-top:10px;width:300px;}.service-links a:hover{border-bottom:none;}.service-links li{float:left;margin-right:10px;}.comments{width:120px;display:block;float:right;margin-top:35px;}.comments:hover{border-bottom:none;}.comments span{float:left;margin:3px 8px 0px 0px;display:block;width:12px;height:11px;background:url(http://assets3.rogershealy.com/sites/all/themes/rogers-healy/_media/rogers-healy-sprite.png) -128px -52px no-repeat;}#comment-title{margin-bottom:28px;}#comments{float:right;width:699px;margin-top:51px;margin-right:12px;}.comment-wrapper{position:relative;clear:both;}.comment-wrapper .comment-content{width:553px;margin-bottom:24px;-moz-border-radius:10px;-webkit-border-radius:10px;padding:16px 25px;float:right;min-height:110px;}.comment-content p{margin-bottom:0px!important;}.comment-wrapper .photo{border:none!important;float:left;margin-top:25px;margin-bottom:5px;}.comment-wrapper ul{width:70px;float:left;}.author-comment .comment-content{float:left;}.author-comment .photo{float:right;}.author-comment ul{float:right;}.author-comment .point-container{padding-right:2.0em!important;left:603px!important;padding-left:0em!important;}.author-comment .point{left:0em!important;right:0.4em!important;border-left-width:1.5em!important;border-left-style:solid!important;border-right:none!important;}.point-container{position:absolute;padding-left:2.0em;height:1.5em;width:0;top:24px;left:70px;}.point-container .point{width:0;height:0;position:absolute;top:1.1em;left:0.4em;display:block;border-right-width:1.5em;border-right-style:solid;border-bottom-width:4em;border-bottom-style:solid;border-bottom-width:4em;border-bottom-style:solid;overflow:hidden;}#comment-form-wrapper{border-style:solid;border-width:1px;padding:14px 30px 20px 30px;width:479px;margin-top:55px;}#comment-form-container .form-submit,#comment-form-wrapper .form-submit{float:left;clear:none;}#comment-form-container #edit-submit,#comment-form-wrapper #edit-submit{clear:left;}#comment-form-container #edit-preview,#comment-form-wrapper #edit-preview{margin-left:16px;}#comment-form-container #edit-name,#comment-form-wrapper #edit-name{padding:3px 5px;width:278px;}.reply #comment-form-container{width:699px;}		#user-profile-form-container .description{width:auto;float:left;clear:left;}		.home #flags{position:absolute;top:291px;left:272px;}.home #flags span{float:none;margin-right:0px;}.home #flags .date-display-start{margin-left:5px;}.home .date-display-single{float:left!important;margin-left:6px!important;text-transform:uppercase;}.home .new-listing{width:160px!important;left:293px!important;padding-bottom:6px!important;padding-left:0!important;text-align:center!important;}.home .reduced{width:160px!important;left:293px!important;padding-bottom:6px!important;padding-left:0!important;text-align:center!important;}	ol{list-style-type:decimal;}ol li{margin-bottom:10px;}#flags{float:left;border-width:3px;border-style:solid;width:123px;height:22px;padding-top:1px;text-align:center;}#flags p{margin:0px;width:171px;}#flags span{float:right;margin-right:8px;}#flags span.date{float:left;margin-left:11px;}.home #flags h5{float:left;margin-top:1px;}	#listing .open-house{width:171px;height:48px;}.home .open-house{width:210px!important;left:243px!important;}.home .open-house .before{display:block;float:left!important;background:url(/sites/all/themes/rogers-healy/_media/rogers-healy-sprite.png) -173px -28px no-repeat;width:34px;height:47px;margin-left:7px!important;margin-right:6px!important;}#flags .date{float:left!important;margin-left:-7px!important;width:160px!important;margin-right:3px!important;}	.new-listing{height:35px;}.home .new-listing{width:190px!important;left:263px!important;height:25px!important;}.home .new-listing .before{display:block;float:left!important;background:url(/sites/all/themes/rogers-healy/_media/rogers-healy-sprite.png) -207px -29px no-repeat;width:26px;height:25px;margin-left:3px!important;margin-right:6px!important;margin-top:2px!important;}	.reduced{height:35px;left:319px;}.home .reduced{width:160px!important;left:293px!important;height:25px!important;}.home .reduced .before{display:block;float:left!important;background:url(/sites/all/themes/rogers-healy/_media/rogers-healy-sprite.png) -207px 0px no-repeat;width:22px;height:29px;margin-left:7px!important;margin-right:6px!important;}	.page-not-found{margin-top:116px;margin-left:135px;margin-bottom:89px;float:left;}.page-not-found p{width:521px;float:left;margin-left:40px;margin-top:56px;}.page-not-found a:hover{border-width:4px;}.page-not-found img{float:left;}	#mls-advanced-search-form{
+	width:auto;
+}#mls-advanced-search-form fieldset{
+	border-width:1px;
+	border-style:solid;
+	border-color:#CCC;
+	padding:8px 0px 22px 30px;
+}#mls-advanced-search-form p{font-size:12px;}#mls-advanced-search-form legend{margin:5px 0px 5px -15px;padding:0px 15px;}#mls-advanced-search-form .form-text{padding:4px;border-style:solid;border-width:1px;border-color:rgb(123,141,158);}#mls-advanced-search-form #mls_number,#mls-advanced-search-form #zip_code{width:164px;}#mls-advanced-search-form #for-city,#mls-advanced-search-form #for-subdivision{clear:none;margin-top:0px;margin-left:13px;}#school-name,#school-district,#mls-advanced-search-form #city,#mls-advanced-search-form #subdivision{margin-top:0px;width:272px;}#mls-advanced-search-form #for-address{margin-top:0px;}#mls-advanced-search-form #address{width:459px;margin-top:0px;}#mls-advanced-search-form select{width:225px;padding:5px 4px;font-size:12px;}#mls-advanced-search-form #for-lowest-price,#mls-advanced-search-form #for-highest-price,#mls-advanced-search-form #for-beds{width:auto;}#mls-advanced-search-form #for-baths{margin-left:20px;}#mls-advanced-search-form #for-stories{clear:none;margin-left:20px;}#mls-advanced-search-form #for-areas,#mls-advanced-search-form #for-counties{margin-left:30px;}#mls-advanced-search-form #for-areas,#mls-advanced-search-form #for-counties{clear:none;}#mls-advanced-search-form #areas,#mls-advanced-search-form #counties{width:190px;}#mls-advanced-search-form #cities{width:135px;}#mls-advanced-search-form .for-checkboxes,#mls-advanced-search-form .for-radios{font-weight:normal;font-size:18px;line-height:26px;color:rgb(255,255,255);font-family:Georgia,"Times New Roman",serif;clear:none;}#mls-advanced-search-form .option-container{
+	width:185px;
+	float:left;
+	clear:none;
+	margin-right:35px;
+}#mls-advanced-search-form .option{
+	width:200px;
+	margin-top:10px;
+	margin-bottom:0px;
+}#for-edit-special-requirements-pool-no-preference{clear:none;}#mls-advanced-search-form .schools{float:right;}		#user-profile-form span,#user-login span,#user-pass span{display:inline;float:left;}#user-login .form-text,#user-pass .form-text{width:140px;padding:4px;border-style:solid;border-width:1px;}#user-profile-form .form-required,#user-login .form-required,#user-pass .form-required{font-style:italic;margin-left:5px;}#for-edit-pass{margin-top:10px;}#user-profile-form .description,#user-login .description{font-size:12px;}#for-edit-profile-phone input,#for-edit-profile-mls-id input,#for-edit-profile-title input,#for-edit-profile-display-name input,#edit-picture-upload,#edit-mail,#user-pass .form-text{width:200px;padding:4px;border-style:solid;border-width:1px;}.password-description{clear:left;font-size:12px;border-style:solid;border-width:1px;width:350px;border-color:rgb(221,37,37)!important;background-color:rgb(253,177,177);color:rgb(201,37,37);padding:5px;}.password-description ul{margin-left:15px;font-weight:bold;}.password-result,.password-strength,.password-confirm{clear:left;margin-right:5px;}#user-profile-form fieldset{margin-bottom:20px;}#for-edit-pass-pass1{margin-top:10px;}#for-edit-pass-pass1 input,#for-edit-pass-pass2 input{width:200px;padding:4px;border-style:solid;border-width:1px;}#for-edit-pass-pass2{margin-bottom:0px;}.password-confirm .error,.ok{float:none!important;}	.admin-inline{float:left;}.admin-links{width:199px;float:left;margin:18px 0px;border-style:solid;border-width:1px;padding:10px;}.icon-configure,.icon-edit{margin-right:10px;text-transform:capitalize;}	.twitter,.facebook{clear:both;width:200px;}	#recent-closings{float:left;width:513px;margin-bottom:30px;}#recent-closings .first-child{border-top:none!important;}.recent-closing{clear:left;padding-top:20px;margin-top:20px;border-top-width:1px;border-top-style:solid;border-top-color:rgb(123,141,158);background:url(http://assets3.rogershealy.com/sites/all/themes/rogers-healy/_media/showcase-background.jpg) 0 100% no-repeat;}.recent-closing .photo{position:relative;float:left;margin-left:15px;}.recent-closing .address{margin-bottom:0px!important;float:left;margin-left:25px!important;margin-top:50px;width:310px;}.recent-closing .price,.recent-closing .status{float:left;margin-left:24px;}.recent-closing .status{display:block;}.recent-closings #edit-submit{display:none;}.recent-closings #rha-mls-pager{width:auto;margin-right:0px;}.no-closings{clear:left;float:left;}	.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}/* Hides from IE-mac \*/	* html .clearfix{height:1%;}.clearfix{
+	display:block;
+	list-style-type: none;
+	width: auto;
+	margin: 0px;
+	background-color: #666;
+}			
+.footer{
+	display:block;
+	list-style-type: none;
+	width: 900px;
+	margin: 0px;
+	background-color: #666;
+}
+
+.mls-search-result{margin-bottom:20px;text-transform:capitalize;}.mls-search-result dt{float:left;clear:left;}.mls-search-result dd{float:left;margin-left:7px;}		* html #featured-listing{width:720px!important;}		*+html #for-property-type{width:200px;}*+html .home .pager li{width:30px;margin-right:4px;}*+html #mls-quick-search-form .optional-link{float:none;}*+html #passion-is-people .button{width:200px;}*+html #passion-is-people .optional-link{width:200px;}*+html #listing .optional-link{width:200px;margin-top:60px;margin-left:-180px;}*+html .listing .button{margin-top:0px!important;}*+html .form-submit{padding-top:2px!important;}*+html #rha-mls-our-listings-sort{width:480px;}*+html #for-edit-show-listings-from{margin-left:40px;}*+html #rha-mls-pager-container #for-edit-page{width:90px;}*+html #rha-mls-pager{width:200px!important;}*+html #rha-mls-pager-1{width:200px!important;}*+html #general-information{margin-top:-30px!important;}*+html #general-description{margin-top:-15px;}*+html #listing-photos{margin-top:27px!important;padding-bottom:15px!important;}*+html #listing-description{margin-top:-25px!important;padding-bottom:0px;}*+html #page{overflow-x:hidden;overflow-y:auto;margin-top:0px;padding-top:63px;}*+html .recent-closings #rha-mls-pager{width:auto;margin-right:0px;clear:both;margin-top:-30px;}*+html #recent-closings .first-child{padding-top:40px;margin-top:0px;}*+html .home #listing{margin-left:3px!important;}*+html .recent-closings #secondary-info{margin-top:15px!important;}*+html .contact-us .facebook{margin-left:-219px;margin-top:270px;}*+html #rha-mls-pager-1 #for-edit-page-1{width:100px;}*+html #listing-description a{clear:left;}*+html .our-listings-landing .listing .listing-photo{float:left}*+html .our-listings-landing .listing #flags{float:left;margin-left:-142px;margin-top:-7px;position:static}}@media screen,projection,handheld{html,body{
+}body{
+	color:#FFF;
+	margin-top:0px;
+}html body{
+	background-color: #000;
+	width: 950px;
+}	#user-profile-form legend,h1,h2,h3,h4,h5,h6{
+	color:#FFF;
+}a{color:rgb(253,253,253);}a:hover{border-bottom-color:rgb(253,253,253);}#nav{background-color:rgb(3,5,8);}a.optional-link{color:rgb(255,255,255);}
+#content-container {
+background-color:white;
+border-bottom-color:#7B8D9E;
+border-top-color:#7B8D9E;
+position:relative;
+width:900px;
+}
+.tabs.secondary,.admin-links,.section,#admin-features{
+	background-color:#000;
+	color:#F0F0F0;
+	border-color:#000;
+}.section h2{
+	border-top-color:#000;
+}.section input.form-submit,.button,.form-submit{color:white;}form label{
+	color:#FFF;
+}#secondary-content{border-color:rgb(123,141,158);background-color:rgb(43,72,100);}#informational li{border-left-color:rgb(123,141,158);}	#listings-container .listing{
+	background-color:#666;
+	border-color:#CCC;
+}.galleria_container img,.listing-photo{}#rha-mls-pager-1 a,#rha-mls-pager;}#rha-mls-pager-1 a:hover,#rha-mls-pager a:hover{;}#rha-mls-pager-1 #for-edit-page span,#rha-mls-pager #for-edit-page span{color:rgb(184,189,190);}		#listing-nav a{
+	border-color:rgb(123,141,158);
+	background-color:#666;
+	color:rgb(237,235,227);
+}#listing-nav a:hover{
+	background-color:#D6D6D6;
+}#general-information img{border-color:rgb(237,235,227);}#listing-photos img{border-color:rgb(237,235,227);}#footer a{color:rgb(184,189,190);}#footer a:hover{color:rgb(255,255,255);}.agent-photo{border-color:rgb(237,235,227);}#listing-photos{border-top-color:rgb(123,141,158);border-bottom-color:rgb(123,141,158);}#listing-description{border-bottom-color:rgb(123,141,158);}table th{
+	color:#FFF;
+	margin-left: 10px;
+}	#container #primary-associate{background-color:rgb(66,101,129);border-color:rgb(123,141,158);}#primary-associate img{border-color:rgb(237,235,227);}#container .photo{border-color:rgb(237,235,227);}		#associates-nav li a{border-color:rgb(123,141,158);background-color:rgb(51,86,120);}#associates-nav li a:hover{background-color:rgb(78,109,143);}	.news-item h4{color:rgb(237,235,227);}#sub-heading{color:rgb(184,189,190);}#secondary-info img{border-color:rgb(237,235,227);}	.testimonial{border-color:rgb(123,141,158);background-color:rgb(66,101,129);}.testimonial img{border-color:rgb(237,235,227);}			#contact-us-form input:focus{border-color:rgb(3,5,8);}#for-zip-code input,#for-city input,#for-address input,#for-address-2 input,#for-first-name input,#for-last-name input,#for-email input,#for-phone input,.for-textfield input{border-color:rgb(123,141,158);}#for-city input{border-color:rgb(123,141,158);}#for-specific-mls input{border-color:rgb(123,141,158);}#for-specific-zip input{border-color:rgb(123,141,158);}#for-message #message{border-color:rgb(123,141,158);}#container .contact{border-top-color:rgb(123,141,158);border-bottom-color:rgb(123,141,158);}input.error{border-color:rgb(221,37,37)!important;background-color:rgb(253,177,177);color:rgb(201,37,37);}ul.error li{border-color:rgb(221,37,37);background-color:rgb(253,177,177);color:rgb(201,37,37);}ul.success li{border-color:rgb(55,122,15);background-color:rgb(207,242,186);color:rgb(55,122,15);}div.error{border-color:rgb(221,37,37);background-color:rgb(253,177,177);color:rgb(201,37,37);}	#blog-categories a,#recent-posts a{color:rgb(255,255,255);}.blog .section{background-color:rgb(66,101,129);}.blog .section p{color:rgb(184,189,190);}.subscribe{border-color:rgb(123,141,158);background-color:rgb(51,86,120);}.subscribe:hover{background-color:rgb(78,109,143);border-bottom-color:rgb(123,141,158);}.blog-landing .blog-post{border-top-color:rgb(123,141,158)!important;}.comment-subscribe{border-color:rgb(123,141,158);background-color:rgb(51,86,120);}.comment-subscribe:hover{border-bottom-color:rgb(123,141,158);}.blog .blog-post,.reply .blog-post{border-bottom-color:rgb(123,141,158);}.blog-post .photo{border-color:rgb(237,235,227);}.blog-post h4{color:rgb(184,189,190);}.categories li{color:rgb(237,235,227);}.categories a{color:rgb(237,235,227);}.comment-wrapper .comment-content{background-color:rgb(66,101,129);}.author-comment .comment-content{background-color:rgb(27,52,80);}.author-comment .point{border-left-color:rgb(27,52,80)!important;}.point-container .point{border-right-color:rgb(66,101,129);border-bottom-color:rgb(43,77,117);border-bottom-color:rgba(0,0,0,0);border-bottom-color:transparent!important;}#comment-form-wrapper{border-color:rgb(123,141,158);background-color:rgb(66,101,129);}		#from-the-blog{border-color:rgb(123,141,158);}#from-the-blog h4{color:rgb(184,189,190);}#passion-is-people img{border-color:rgb(237,235,227);}#featured-listing img{border-color:rgb(237,235,227);}#featured-listing h3{color:rgb(237,235,227);}.pager .pager-current,.pager .activeSlide{border-color:rgb(123,141,158);color:rgb(237,235,227);background-color:rgb(78,109,143);}.pager a{border-color:rgb(123,141,158);background-color:rgb(51,86,120);color:rgb(237,235,227);}.pager a:hover{background-color:rgb(78,109,143);}#flags{color:rgb(255,255,255);border-color:rgb(227,225,218);}#flags.open-house{background-color:rgb(66,86,30);}#flags.new-listing{background-color:rgb(56,118,165);}#flags.reduced{background-color:rgb(32,85,30);}#flags.lease{background-color:rgb(51,51,51);}#description{color:rgb(184,189,190);}}html{font-size:62.5%;}body{
+	font-size:14px;
+	line-height:1.2;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align: center;
+	width: 400px;
+	margin-left: 195px;
+	margin-right: 170px;
+	background-color: #333;
+	background-repeat: no-repeat;
+}#page {
+font-family:Arial,Helvetica,sans-serif;
+list-style-type:none;
+margin-bottom:0;
+margin-left:26px;
+margin-top:0;
+position:relative;
+text-align:left;
+}p{font-size:14px;line-height:1.286;}#nav{font-family:Georgia,"Times New Roman",serif;font-size:18px;}a{text-decoration:none;}cite{font-style:normal;font-weight:bold;}#user-profile-form legend,h1,h2,h3,h4,h5,h6{font-family:Georgia,"Times New Roman",serif;font-weight:normal;}#user-profile-form legend,h2,#featured-listing h4,h3,#rha-showcase h4{font-size:23px;line-height:1.1305;}h4{line-height:1.286;}#rha-showcase h4{font-size:21px;line-height:1.1305;}table th{font-size:23px;font-family:Georgia,"Times New Roman",serif;font-weight:normal;}table td{font-size:12px;}table .title{font-weight:bold;}table p{font-size:12px;}.optional-link{font-size:12px!important;}.section input.form-submit,.button,.form-submit{font-size:15px!important;font-family:Georgia,"Times New Roman",serif;font-weight:normal;}form label{
+	font-size:12px;
+	font-weight:bold;
+}#featured-listing h3{font-size:24px;line-height:1.125;}.home #flags h5{font-size:23px;}#flags h5{font-size:17px;line-height:1.25;font-weight:bold;font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;}#flags p{font-size:11px;}#flags span.date{text-transform:uppercase;}.pager a,.pager .pager-current{font-size:18px;}.property-name{font-size:18px;font-family:Georgia,"Times New Roman",serif;font-weight:normal;}#agent-details li.fn{font-weight:bold;}#description{font-family:Georgia,"Times New Roman",serif;font-weight:normal;font-size:18px;line-height:1.444;}#from-the-blog h4{font-family:Arial,Helvetica,sans-serif;}#from-the-blog cite{font-style:normal;font-weight:bold;}#from-the-blog a{font-size:12px;}#utility-navigation a{font-size:12px;font-weight:normal;}#informational{font-size:10px;font-weight:normal;}.information .street-address{font-weight:bold;}.information p span{font-weight:bold;}#rha-mls-pager-1 #for-edit-page-1,#rha-mls-pager #for-edit-page{font-size:14px;}#rha-mls-pager-1 #for-edit-page-1 span,#rha-mls-pager #for-edit-page span{font-weight:normal;}	.associates .vcard h3{font-size:14px;font-weight:normal;}.associates .vcard .tel,.associates .vcard .email{font-family:arial,helvetica,sans-serif;}.news-item h4{font-size:17px;font-family:arial,helvetica,sans-serif;font-weight:bold;}#sub-heading{font-size:14px;font-family:arial,helvetica,sans-serif;font-weight:bold;}#contact-us-form .form-required{font-style:italic;font-size:10px;}.contact .primary{font-weight:bold;}.contact li{line-height:1.4;}#recent-posts h4,#blog-categories h4{font-size:14px;font-weight:bold;font-family:arial,helvetica,sans-serif;}#blog-categories a,#recent-posts a{font-size:12px;}.blog-post h4{font-size:14px;font-weight:bold;font-family:Arial,Helvetica,sans-serif;}.categories li{font-size:12px;}.comments{font-size:12px;}#comment-content p{font-size:12px;line-height:18px;}.comment-wrapper li{font-size:12px;line-height:18px;}.page-not-found p{font-size:24px;line-height:38px;}
+.listprice{
+	font-size:22px;
+	color:#FFF;
+}
+.bigtable{
+	background-color: #FFF;
+	
+}
